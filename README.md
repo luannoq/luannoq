@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/download/c837s92)
+![Random Tech Banner](https://source.unsplash.com/1600x900/?tech,code,programming,developer)
 
 # Olá, eu sou Luann Noqueli Klochko! 👋
 
