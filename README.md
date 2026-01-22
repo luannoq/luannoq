@@ -1,4 +1,4 @@
-![Banner]([https://imgur.com/download/c837s92](https://w.wallhaven.cc/full/m3/wallhaven-m3v3j1.png))
+![Banner](https://w.wallhaven.cc/full/m3/wallhaven-m3v3j1.png)
 
 # Olá, eu sou Luann Noqueli Klochko! 👋
 
