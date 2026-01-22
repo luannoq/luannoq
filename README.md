@@ -1,4 +1,4 @@
-![Random Tech Banner](https://source.unsplash.com/1600x900/?tech,code,programming,developer)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Luann%20Noqueli&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20C%23%20%7C%20Oracle&descAlignY=51&descAlign=62)
 
 # Olá, eu sou Luann Noqueli Klochko! 👋
 
