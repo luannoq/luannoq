@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Luann%20Noqueli&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20C%23%20%7C%20Oracle&descAlignY=51&descAlign=62)
+![Banner]([https://imgur.com/download/c837s92](https://w.wallhaven.cc/full/m3/wallhaven-m3v3j1.png))
 
 # Olá, eu sou Luann Noqueli Klochko! 👋
 
