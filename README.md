@@ -1,54 +1,65 @@
 <h1 align="center">Olá, eu sou Luann Noqueli Klochko! 👋</h1>
-<p align="center">Desenvolvedor Full Stack Júnior &bull; ADS na FIAP &bull; São Paulo, SP</p>
+<p align="center">Desenvolvedor Full Stack Júnior • ADS na FIAP • São Paulo, SP</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/luannnoqueli/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+  </a>
   <a href="mailto:klochko679@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/luannoq" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-🙋 Sobre mim
+<h2>🙋 About Me</h2>
 
-💼 Atualmente: Desenvolvedor na Fieldcorp — promovido ao time de dev após 3 semanas em suporte técnico
-🔧 No dia a dia: C# .NET, APIs REST, React.js, TypeScript e testes E2E com Cypress em produção
-🎓 Formação: Análise e Desenvolvimento de Sistemas — FIAP | conclusão: Julho/2026 | Média > 8.0
-🌍 Inglês: C2
-🎯 Objetivo: Carreira internacional em desenvolvimento de software
+💼 Currently working as a developer at Fieldcorp — promoted to the dev team after 3 weeks in tech support
+🔧 Day to day: C# .NET, REST APIs, React.js, TypeScript and E2E testing with Cypress in production
+🎓 Pursuing a Bachelor's Degree in Systems Analysis and Development at FIAP (graduation: July/2026) | GPA > 8.0
+🌍 English: C2
+🎯 Goal: International career in software development
 
 
-🚀 Tech Stack
-Front-End
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="JavaScript" />
-Back-End
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="50" alt="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="50" alt=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="50" alt="Spring Boot" />
-Infra & Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="50" alt="Azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="50" alt="Oracle" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-line.svg" height="40" width="50" alt="Cypress" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="Git" />
+<h2 align="center">My Stack</h2>
+<h3 align="center">Front-End</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="60" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" />
+</p>
+<h3 align="center">Back-End</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="60" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="60" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="60" alt="Spring Boot" />
+</p>
+<h3 align="center">Infra & Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" width="60" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" width="60" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-line.svg" height="50" width="60" alt="Cypress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60" alt="Git" />
+</p>
 
-🏅 Certificados FIAP
+<h2>🏅 Certificados FIAP</h2>
 
 Badges geradas com FIAP Achievements — plataforma open-source que conecta certificados FIAP ao GitHub.
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_WEB20&theme=dark" width="90" title="Desenvolvimento e Designer Web 2.0 — Gold" />
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_MOBILE&theme=dark" width="90" title="Desenvolvimento de Aplicações Móveis — Silver" />
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_ANALISE&theme=dark" width="90" title="Análise de Sistemas e Prototipação Web — Gold" />
+<p align="center">
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_WEB20&theme=dark" width="100" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_MOBILE&theme=dark" width="100" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_ANALISE&theme=dark" width="100" />
+</p>
 
-📊 Estatísticas do GitHub
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luannoq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannoq&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luannoq&theme=tokyonight" />
-</div>
+</p>
