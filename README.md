@@ -12,42 +12,43 @@
   </a>
 </p>
 
-<h2>🙋 About Me</h2>
+🙋 About Me
 
 💼 Currently working as a developer at Fieldcorp — promoted to the dev team after 3 weeks in tech support
 🔧 Day to day: C# .NET, REST APIs, React.js, TypeScript and E2E testing with Cypress in production
-🎓 Pursuing a Bachelor's Degree in Systems Analysis and Development at FIAP (graduation: July/2026) | GPA > 8.0
+🎓 Pursuing ADS at FIAP (graduation: July/2026) | GPA > 8.0
 🌍 English: C2
 🎯 Goal: International career in software development
 
 
-<h2 align="center">My Stack</h2>
+🚀 My Stack
 <h3 align="center">Front-End</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="60" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="60" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="60" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 <h3 align="center">Back-End</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="60" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="60" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="60" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="60" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 <h3 align="center">Infra & Tools</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" width="60" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="60" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" width="60" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-line.svg" height="50" width="60" alt="Cypress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60" alt="Git" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h2>🏅 Certificados FIAP</h2>
+🏅 Certificados FIAP
 
-Badges geradas com FIAP Achievements — plataforma open-source que conecta certificados FIAP ao GitHub.
+Badges geradas com FIAP Achievements
 
 <p align="center">
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_WEB20&theme=dark" width="100" />
@@ -55,7 +56,7 @@ Badges geradas com FIAP Achievements — plataforma open-source que conecta cert
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=SEU_ID_ANALISE&theme=dark" width="100" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luannoq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannoq&layout=compact&langs_count=7&theme=tokyonight" />
