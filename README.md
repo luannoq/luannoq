@@ -56,10 +56,13 @@ Badges geradas com FIAP Achievements
 </p>
 
 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luannoq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannoq&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+<a href="https://github.com/luannoq/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=luannoq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/luannoq/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannoq&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+<br/><br/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luannoq&theme=tokyonight" />
 </p>
